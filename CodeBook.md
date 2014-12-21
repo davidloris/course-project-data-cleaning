@@ -58,6 +58,19 @@ FEATURE INFORMATION
 
 The features which are processed in this assigment are data obtained during the above mentioned studies.
 
+For each record in the dataset it is provided:
+- mean by activity and subject
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- 67 mean and standard deviation subset from a 561-feature vector with time and frequency domain variables.
+- Its activity label.
+- An identifier of the subject who carried out the experiment.
+
+NOTES 
+
+- Features are normalized and bounded within [-1,1].
+
+more information is available if you contact: activityrecognition@smartlab.ws
 
 
 
